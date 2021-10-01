@@ -1,0 +1,15 @@
+{
+  "name": "iotremotefeeder",
+  "version": "1.0.0",
+  "description": "iot remote pet feeder utilizing nodeJS by @MateusLPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/MateusLPG/iotfeeder"
+  },
+  "author": "@MateusLPG",
+  "license": "ISC"
+}
